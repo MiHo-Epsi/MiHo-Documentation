@@ -1,0 +1,10 @@
+{
+    "restructuredtext.linter.extraArgs": [
+        "--ignore D001",
+        "--ignore D002",
+        "--ignore D004",
+        "--ignore D005",
+        "--ignore D000"
+    ],
+    "restructuredtext.confPath": ""
+}
